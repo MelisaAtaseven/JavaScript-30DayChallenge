@@ -13,3 +13,8 @@
 
 ># Day 4: Array Cardio Day 1
 ![](https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/04-array-cardio-day-1/ArrayCardio.png)
+
+># Day 5: Flex Panels Image Gallery
+![](https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/05-flex-panel-gallery/flexgallery.png)
+
+
