@@ -25,4 +25,7 @@
 ![](https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/05-flex-panel-gallery/flexgallery.png)
 <!-- CodePen üzerinden projeme bakmak için [Tıklayın](  https://codepen.io/atasevenmelisa/pen/mdzxzoz). -->
 
+># Day 6: Ajax Type Ahead
+![]( https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/06-ajax-type-ahead/ajax-type-ahead.png)
+<!-- CodePen üzerinden projeme bakmak için [Tıklayın](  https://codepen.io/atasevenmelisa/pen/mdzxzoz). -->
 
