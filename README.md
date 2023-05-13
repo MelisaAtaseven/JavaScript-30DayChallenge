@@ -31,4 +31,4 @@
 ![]( https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/09-dev-tools-tricks/tools.png)
 
 ># Day 10: Hold Shift to Check Multiple Checkboxes
-![]( )
+![]( https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/10-hold-shift-check-checkboxes/checkboxes.png)
