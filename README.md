@@ -21,7 +21,11 @@
 ># Day 6: Ajax Type Ahead
 ![]( https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/06-ajax-type-ahead/ajax-type-ahead.png)
 
-># Day 4: Array Cardio Day 2
+># Day 7: Array Cardio Day 2
 ![](  https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/07-array-cardio-day-2/array-cardio-day-2.png)
 
+># Day 8: Fun with HTML5 Canvas
+![](  https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/08-fun-with-html-canvas/canvas.png)
 
+># Day 9: 14 Must Know Dev Tools Tricks
+![]( https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/09-dev-tools-tricks/tools.png)
