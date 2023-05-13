@@ -29,3 +29,6 @@
 
 ># Day 9: 14 Must Know Dev Tools Tricks
 ![]( https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/09-dev-tools-tricks/tools.png)
+
+># Day 10: Hold Shift to Check Multiple Checkboxes
+![]( )
