@@ -32,3 +32,9 @@
 
 ># Day 10: Hold Shift to Check Multiple Checkboxes
 ![]( https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/10-hold-shift-check-checkboxes/checkboxes.png)
+
+># Day 11: Custom HTML5 Video Player
+![]( https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/11-custom-video-player/image%2014.png )
+
+># Day 12: Key Sequence Detection (KONAMI CODE)
+![]( https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/12-key-sequence-detection/image%2013.png  )
