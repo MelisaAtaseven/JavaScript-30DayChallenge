@@ -38,3 +38,6 @@
 
 ># Day 12: Key Sequence Detection (KONAMI CODE)
 ![]( https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/12-key-sequence-detection/image%2013.png  )
+
+># Day 13: Slide In on Scroll
+![]( https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/13-slide-in-on-scroll/image%2015.png  )
