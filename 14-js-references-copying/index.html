@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS Reference VS Copy</title>
+    <link rel="icon" href="https://fav.farm/🖹" />
+</head>
+
+<body>
+    <script>
+
+        let age = 100;
+        let age2 = age;
+        console.log(age, age2);
+        age = 200;
+        console.log(age, age2)
+
+        let name = "Wes";
+        let name2 = name;
+        console.log(name, name2);
+        name = "Bos";
+        console.log(name, name2);
+
+
+        const players = ["Wes", "Sarah", "Ryan", "Poppy"];
+
+ 
+        const team = players;
+        console.log(players, team);
+
+  
+        team[3] = "Lux";
+
+        const team2 = players.slice();
+
+        const team3 = [].concat(players);
+
+
+        const team4 = [...players];
+        team4[3] = "heeee hawwww";
+        console.log(team4);
+
+        const team5 = Array.from(players);
+
+        const person = {
+            name: "Wes Bos",
+            age: 80
+        };
+
+
+        const captain = person;
+        captain.number = 99;
+
+        const cap2 = Object.assign({}, person, { number: 99, age: 12 });
+        console.log(cap2);
+
+        const cap3 = { ...person };
+
+        const wes = {
+            name: "Wes",
+            age: 100,
+            social: {
+                twitter: "@wesbos",
+                facebook: "wesbos.developer"
+            }
+        };
+
+        console.log(wes);
+
+        const dev = Object.assign({}, wes);
+        const dev2 = JSON.parse(JSON.stringify(wes));
+
+    </script>
+</body>
+
+</html>
