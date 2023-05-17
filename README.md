@@ -45,7 +45,7 @@
 ># Day 14: Object and Arrays - Reference VS Copy
 ![]( https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/14-js-references-copying/image%2017.png  )
 
-># 
+># Day 15: LocalStorage and Event Delegation
 ![](   )
 
 ># 
