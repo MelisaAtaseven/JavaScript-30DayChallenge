@@ -48,7 +48,7 @@
 ># Day 15: LocalStorage and Event Delegation
 ![]( https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/15-local-storage/image%2017.png  )
 
-># 
-![](   )
+># Day 16: CSS Text Shadow Mouse Move Effect
+![](  https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/16-mouse-move-shadow/image%2018.png  )
 
 
