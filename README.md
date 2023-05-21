@@ -54,8 +54,8 @@
 ># Day 17: Sorting Band Names without Articles
 ![](  https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/17-sort-without-articles/image%2020.png  )
 
-># 
-![](    )
+># Day 18: Tally String Times with Reduce
+![](  https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/18-tally-string-times-with-reduce/image%2020.png  )
 
 ># 
 ![](    )
