@@ -51,4 +51,14 @@
 ># Day 16: CSS Text Shadow Mouse Move Effect
 ![](  https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/16-mouse-move-shadow/image%2018.png  )
 
+># Day 17: Sorting Band Names without Articles
+![](  https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/17-sort-without-articles/image%2020.png  )
 
+># 
+![](    )
+
+># 
+![](    )
+
+># 
+![](    )
