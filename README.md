@@ -61,16 +61,9 @@
 ![](  https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/19-unreal-webcam-fun/image%2021.png  )
 
 ># Day 20: Native Speech Recognition
-![](    )
+![](  https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/20-native-speech-recognition/image%2022.png  )
 
 ># 
 ![](    )
 
-># 
-![](    )
 
-># 
-![](    )
-
-># 
-![](    )
