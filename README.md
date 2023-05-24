@@ -67,7 +67,7 @@
 ![](  https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/21-geolocation/image.png  )
 
 ># Day 22: Follow Along Links
-![](    )
+![](   https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/22-follow-along-links/image.png )
 
 ># 
 ![](    )
