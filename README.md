@@ -66,6 +66,9 @@
 ># Day 21: Geolocation based Speedometer and Compass
 ![](  https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/21-geolocation/image.png  )
 
+># Day 22: Follow Along Links
+![](    )
+
 ># 
 ![](    )
 
