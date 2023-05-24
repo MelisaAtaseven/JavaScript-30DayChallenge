@@ -63,7 +63,12 @@
 ># Day 20: Native Speech Recognition
 ![](  https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/20-native-speech-recognition/image%2022.png  )
 
-># 
+># Day 21: Geolocation based Speedometer and Compass
+![](  https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/21-geolocation/image.png  )
+
+># Day 22: Follow Along Links
 ![](    )
 
+># 
+![](    )
 
