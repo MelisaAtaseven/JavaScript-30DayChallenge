@@ -72,3 +72,5 @@
 ># Day 23: Speech Synthesis
 ![]( https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/23-speech-synthesis/image.png   )
 
+># Day 24: Sticky Nav
+![](  https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/24-sticky-nav/image.png  )
