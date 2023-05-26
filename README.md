@@ -69,6 +69,6 @@
 ># Day 22: Follow Along Links
 ![](   https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/22-follow-along-links/image.png )
 
-># 
-![](    )
+># Day 23: Speech Synthesis
+![]( https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/23-speech-synthesis/image.png   )
 
