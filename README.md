@@ -77,3 +77,6 @@
 
 ># Day 25: Event Capture, Propagation, Bubbling and Once
 ![]( https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/25-event-capture-propagation-bubbling-once/image.png   )
+
+># Day 26: Stripe Follow Along Dropdown
+![](  https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/26-stripe-follow-along-dropdown/image.png   )
