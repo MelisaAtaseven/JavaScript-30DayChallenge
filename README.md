@@ -83,3 +83,6 @@
 
 ># Day 27: Click and Drag to Scroll
 ![](   https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/27-click-and-drag-to-scroll/image.png  )
+
+># Day 28: Video Speed Controller UI
+![](    https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/28-video-speed-controller/image.png  )
