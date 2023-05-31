@@ -80,3 +80,6 @@
 
 ># Day 26: Stripe Follow Along Dropdown
 ![](  https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/26-stripe-follow-along-dropdown/image.png   )
+
+># Day 27: Click and Drag to Scroll
+![](   https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/27-click-and-drag-to-scroll/image.png  )
