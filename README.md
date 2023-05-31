@@ -86,3 +86,7 @@
 
 ># Day 28: Video Speed Controller UI
 ![](    https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/28-video-speed-controller/image.png  )
+
+># Day 29: Countdown Clock
+![]( https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/29-countdown-clock/image.png   )
+
