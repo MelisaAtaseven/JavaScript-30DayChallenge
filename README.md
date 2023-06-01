@@ -90,3 +90,7 @@
 ># Day 29: Countdown Clock
 ![]( https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/29-countdown-clock/image.png   )
 
+># Day 30: Whack a Mole Game
+![]( https://github.com/MelisaAtaseven/JavaScript-30DayChallenge/blob/master/30-whack-a-mole/image.png  )
+
+
